@@ -9,40 +9,40 @@ Diego é um Tecnólogo em Análise e Desenvolvimento de Sistemas com sólidas ha
 
 Além do desenvolvimento web, Diego também tem interesse em back-end e está disponível para novos desafios e colaboração em projetos inovadores.
 
-Projetos
+Projetos:
 
-- Projeto Melodias da Floresta
+° Projeto Melodias da Floresta
 
-Descrição: Projeto que demonstra como a tecnologia pode ser empregada para conectar as pessoas à natureza por meio da música.
-Tecnologias: HTML, CSS e JavaScript.
-Repositório GitHub: https://github.com/DVALENASCIMENTO/melodias_da_floresta_web_page
-Deploy: https://dvalenascimento.github.io/melodias_da_floresta_web_page/
+- Descrição: Projeto que demonstra como a tecnologia pode ser empregada para conectar as pessoas à natureza por meio da música.
+- Tecnologias: HTML, CSS e JavaScript.
+- Repositório GitHub: https://github.com/DVALENASCIMENTO/melodias_da_floresta_web_page
+- Deploy: https://dvalenascimento.github.io/melodias_da_floresta_web_page/
 
-- Projeto Calculadora IMC
+° Projeto Calculadora IMC
 
-Descrição: Aplicação web que calcula o Índice de Massa Corporal.
-Tecnologias: HTML, CSS e JavaScript.
-Repositório GitHub: https://github.com/DVALENASCIMENTO/IMCvaluator
-Deploy: https://dvalenascimento.github.io/IMCvaluator/ 
-
-
-- TaskTime Pro
-
-Descrição: Aplicação de temporizador Pomodoro para ajudar na gestão do tempo e na melhoria da produtividade.
-Tecnologias: HTML, CSS e JavaScript.
-Repositório GitHub: https://github.com/DVALENASCIMENTO/tasktime_pro
-Deploy: https://dvalenascimento.github.io/tasktime_pro/
+- Descrição: Aplicação web que calcula o Índice de Massa Corporal.
+- Tecnologias: HTML, CSS e JavaScript.
+- Repositório GitHub: https://github.com/DVALENASCIMENTO/IMCvaluator
+- Deploy: https://dvalenascimento.github.io/IMCvaluator/ 
 
 
-- Harmonize-se
+° TaskTime Pro
 
-Descrição: Site para promover o equilíbrio interior e o bem-estar físico, mental, emocional e espiritual.
-Tecnologias: HTML, CSS e JavaScript.
-Repositório GitHub: https://github.com/DVALENASCIMENTO/harmonize-se_project/tree/main 
-Deploy: https://dvalenascimento.github.io/harmonize-se_project/index.html
+- Descrição: Aplicação de temporizador Pomodoro para ajudar na gestão do tempo e na melhoria da produtividade.
+- Tecnologias: HTML, CSS e JavaScript.
+- Repositório GitHub: https://github.com/DVALENASCIMENTO/tasktime_pro
+- Deploy: https://dvalenascimento.github.io/tasktime_pro/
 
 
-Contato
+° Harmonize-se
+
+- Descrição: Site para promover o equilíbrio interior e o bem-estar físico, mental, emocional e espiritual.
+- Tecnologias: HTML, CSS e JavaScript.
+- Repositório GitHub: https://github.com/DVALENASCIMENTO/harmonize-se_project/tree/main 
+- Deploy: https://dvalenascimento.github.io/harmonize-se_project/index.html
+
+
+° Contato
 
 - LinkedIn: https://www.linkedin.com/in/diego-vale-do-nascimento-48212215b/
 - GitHub: https://github.com/DVALENASCIMENTO
